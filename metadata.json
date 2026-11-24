@@ -1,0 +1,8 @@
+{
+  "name": "Aksara Land — Developer Properti & CRM",
+  "description": "Website resmi developer properti arsitektur modern lengkap dengan katalog interaktif, simulasi KPR real-time, perbandingan unit, serta dashboard admin, CRM prospek, dan pengaturan terintegrasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
